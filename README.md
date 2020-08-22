@@ -23,8 +23,9 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai9615&show_icons=true" alt="sai9615" /></p>
 
-<p align="center">
+
 <h2 align="center"> Connect with me </h2>
+<p align="center">
 <a href="https://linkedin.com/in/sai-milind-tammisetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sai-milind-tammisetti" height="30" width="30" /></a>
 <a href="https://fb.com/saimilind08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saimilind08" height="30" width="30" /></a>
 <a href="https://instagram.com/sai_milind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sai_milind" height="30" width="30" /></a>
