@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS, Docker and Jenkins (CI/CD for pipeline automation)**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **Backend Projects**
 
 - 👨‍💻 All of my projects are available at [http://saimilind.com/](http://saimilind.com/)
 
