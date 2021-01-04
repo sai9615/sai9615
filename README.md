@@ -13,7 +13,6 @@
 - 📫 How to reach me **stammis1@binghamton.edu**
 
 - ⚡ Fun fact **Chai over Coffee**
-
 <br>
 <h2 align="center"> Languages and Tools </h2>
 <br>
