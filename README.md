@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact **Chai over Coffee**
 
-
-<br>
 <h2 align="center"> Languages and Tools </h2>
 <br>
 <p align="center">
@@ -43,12 +41,10 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" alt="linux" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windows.svg" alt="spring" width="40" height="40"/></p>
 
-<br>
 <h2 align="center"> Github Stats </h2>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai9615&show_icons=true&text_color=ffff&bg_color=-5,000000,A63232&theme=dark" alt="sai9615" /></p>
-</p> <br>
-
+</p> 
 
 <h2 align="center"> Listening to...</h2>
 <br>
@@ -57,12 +53,11 @@
 [![Spotify](https://novatorem-five-dun.vercel.app/api/spotify
 )](https://open.spotify.com/user/sai9615)
 
-<p>
-
+</p>
 <h2 align="center"> Connect with me </h2>
 <p align="center">
 <a href="https://linkedin.com/in/sai-milind-tammisetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sai-milind-tammisetti" height="28" width="30" /></a>
-<a href="https://fb.com/saimilind08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saimilind08" height="29" width="30" /></a>
-<a href="https://instagram.com/sai_milind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sai_milind" height="29" width="30" /></a>
+<a href="https://fb.com/saimilind08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saimilind08" height="30" width="30" /></a>
+<a href="https://instagram.com/sai_milind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sai_milind" height="30" width="30" /></a>
 </p>
 <img src="bottom.png">
