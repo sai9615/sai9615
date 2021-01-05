@@ -13,6 +13,8 @@
 - 📫 How to reach me **stammis1@binghamton.edu**
 
 - ⚡ Fun fact **Chai over Coffee**
+
+
 <br>
 <h2 align="center"> Languages and Tools </h2>
 <br>
@@ -42,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windows.svg" alt="spring" width="40" height="40"/></p>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai9615&show_icons=true" alt="sai9615" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai9615&show_icons=true&text_color=ffff&bg_color=0,000000,2852aa&theme=dark" alt="sai9615" /></p>
 </p> <br>
 
 [![Spotify](https://novatorem-five-dun.vercel.app/api/spotify
