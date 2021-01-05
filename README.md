@@ -46,7 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai9615&show_icons=true&text_color=ffff&bg_color=-5,000000,A63232&theme=dark" alt="sai9615" /></p>
 </p> 
 
-<h2 align="center"> Listening to...</h2>
+<h2 align="center"> Right Now Listening to...</h2>
 <br>
 <p align="center">
 
