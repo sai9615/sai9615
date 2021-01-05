@@ -54,10 +54,15 @@
 )](https://open.spotify.com/user/sai9615)
 
 </p>
-<h2 align="center"> Connect with me </h2>
+<h2 align="center"> Connect With Me </h2>
 <p align="center">
 <a href="https://linkedin.com/in/sai-milind-tammisetti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sai-milind-tammisetti" height="28" width="30" /></a>
 <a href="https://fb.com/saimilind08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saimilind08" height="30" width="30" /></a>
 <a href="https://instagram.com/sai_milind" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sai_milind" height="30" width="30" /></a>
 </p>
+
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsai9615&count_bg=%23C02F2F&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
 <img src="bottom.png">
